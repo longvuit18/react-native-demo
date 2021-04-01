@@ -1,0 +1,21 @@
+{
+    "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
+    "day": "Thứ 2",
+    "subjects": [
+        {
+            "subject": "Tư tưởng HCM",
+            "class": "D3 - 101",
+            "time": "9h 30 - 12h 45"
+        },
+        {
+            "subject": "Mạng máy tính",
+            "class": "TC - 307",
+            "time": "12h 30 - 3h "
+        },
+        {
+            "subject": "Cầu lông",
+            "class": "Sân B",
+            "time": "4h - 5h "
+        }
+    ]
+}
